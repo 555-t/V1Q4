@@ -18,7 +18,7 @@ public class V1Q4 {
         System.out.println("1. Pizza");
         System.out.println("2. Drinks");
         System.out.println("3. Dessert");
-        System.out.println("CHECKOUT\n");
+        System.out.println("4. CHECKOUT\n");
         System.out.print("Pick an option: ");
         choice = g.nextInt();
         System.out.println("");  
